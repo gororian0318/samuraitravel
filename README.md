@@ -1,4 +1,4 @@
-# 民宿予約サイト - Samurai Travel
+# 民宿予約サイト - SAMURAI Travel
 
 ![Java](https://img.shields.io/badge/Java-21-orange)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-3.3-green)
@@ -7,7 +7,7 @@
 ![Stripe](https://img.shields.io/badge/Stripe-Payment-purple)
 
 ## 📖 概要
-**Samurai Travel** は、Spring Boot を用い、侍エンジニアの教材をベースに開発した民宿予約アプリケーションです。  
+**SAMURAI Travel** は、Spring Boot を用い、侍エンジニアの教材をベースに開発した民宿予約アプリケーションです。  
 未経験から Web エンジニアを目指す過程で、バックエンド・フロントエンド・DB・外部サービス連携（Stripe）を組み合わせた総合的な開発経験を積むために制作しました。
 
 ユーザーは会員登録を行い、宿泊施設の検索・予約・キャンセル、レビュー投稿、お気に入り登録、クレジットカード決済が可能です。
